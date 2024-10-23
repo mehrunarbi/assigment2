@@ -1,0 +1,20 @@
+.container{
+    background-color: coral;
+}
+.heading{
+     padding-top: calc();
+    font-size:x-large;
+    font-weight: 400;
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+
+
+}
+.para{
+    text-decoration:solid;
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
