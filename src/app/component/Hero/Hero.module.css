@@ -1,8 +1,11 @@
 .container{
-    background-color: coral;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    background-color:bisque;
 }
 .heading{
-     padding-top: calc();
+     padding-top:4px;
+     padding-bottom: 5px;
     font-size:x-large;
     font-weight: 400;
     color:black;
@@ -16,5 +19,6 @@
     color:black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    padding-bottom: 50px;
     
 }

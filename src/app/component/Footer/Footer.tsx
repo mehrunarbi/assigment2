@@ -3,7 +3,7 @@ import style from "./Footer.module.css"
 function Footer(){
     return(
         <div className={style.footer}>
-            <h1>Thursday Class 9-to-12 am</h1>
+            <h1 className={style.heading}>All rights reserved @ abc.com</h1>
         </div>
     );
 }

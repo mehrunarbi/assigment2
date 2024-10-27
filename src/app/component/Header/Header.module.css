@@ -1,22 +1,27 @@
 .container{
     display: flex;
+    gap:12px;
     justify-content: space-between;
     align-items:center;
     padding: 2px;
     background-color:darkgray;
+    
 
 
 }
 .heading{
     font-size: 1rem;
-    font-weight: bold;
+    font-weight:bolder ;
 }
 
 .list{
     
     display:flex;
-    gap: 1rem;
-    font-weight:bold;
+    gap: 20px;
+    font-weight: bold;
+    padding-top:4px;
+    padding-bottom: 6px;
+    justify-items: center;
     
 }
 

@@ -3,5 +3,10 @@
      color:black;
      font-weight:600;
      text-align: center;
+     padding-bottom: 80px;
 
+}
+.heading{
+     text-align: center;
+     padding-top: 50px;
 }
